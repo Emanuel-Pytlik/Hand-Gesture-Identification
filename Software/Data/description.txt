@@ -1,0 +1,3 @@
+This data are the data recordings of the conducted study:
+
+FILENAMES: participant_session.txt

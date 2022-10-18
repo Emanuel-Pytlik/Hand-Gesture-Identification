@@ -3,7 +3,7 @@ This project presents an innovative approach to how static hand gestures can be 
 
 ## Hardware
 - **Program:** Altium Designer
-- The Sensor-PCBs is used as a sensing board mounted on a velcro strap to measure deformations of the wrist
+- The Sensor-PCBs is used as a sensing board mounted on a velcro strap to measure deformations of the wrist.
 
 ### Design Decisions
 - The design was chosen as simple and small as possible to enable a fast prototyping process and the usage of up to 10 Sensor-PCBs around the wrist.
